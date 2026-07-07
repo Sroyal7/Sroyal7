@@ -31,7 +31,7 @@ Building next: n8n, Python, Power BI.
 
 ## Background
 
-MBA in AI for Business and Data Analytics, Shoolini University (expected August 2026, OGPA 9.41/10). Before AI work: insurance operations analysis, audit assistance at a CA firm, and teaching accounting. The audit background shows up in how I build: every workflow documented, every claim checkable.
+Before AI work: insurance operations analysis, audit assistance at a CA firm, and teaching accounting. The audit background shows up in how I build: every workflow documented, every claim checkable.
 
 Certifications: Anthropic (Claude 101, AI Fluency), Forage job simulations with Vista Equity Partners (AI in Action), Deloitte (Data Analytics), and Datacom (AI in the Workplace).
 
